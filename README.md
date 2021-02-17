@@ -1,4 +1,4 @@
-# Chore Door project
+# Chore Door project - (https://choredoorgame.herokuapp.com/)
 Chore Door
 Instructions:
 1. Hiding behind one of these doors is the ChoreBot.
